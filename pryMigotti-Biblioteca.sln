@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryMigotti-Biblioteca", "pryMigotti-Biblioteca.csproj", "{D95C13F4-4E44-48B5-95AE-4879CA8E7AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D95C13F4-4E44-48B5-95AE-4879CA8E7AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95C13F4-4E44-48B5-95AE-4879CA8E7AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95C13F4-4E44-48B5-95AE-4879CA8E7AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95C13F4-4E44-48B5-95AE-4879CA8E7AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E572DF2-E9FD-4476-8678-EE58BE8692B2}
+	EndGlobalSection
+EndGlobal
